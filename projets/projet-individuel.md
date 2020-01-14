@@ -2,11 +2,11 @@
 
 ## Objectifs pédagogiques
 
-Dans ce projet individuel, vous êtes en chargé par votre hiérarchie de l’analyse
+Dans ce projet individuel, vous êtes chargé par votre hiérarchie de l’analyse
 d’un logiciel légataire afin d’estimer le risque pour votre compagnie d’accepter
 un projet de tierce maintenance applicative sur ce logiciel.
 
-Il est a votre charge d’identifier la méthodologie à mettre en oeuvre pour mener
+Il est à votre charge d’identifier la méthodologie à mettre en oeuvre pour mener
 l’analyse de ce logiciel, de la mettre en oeuvre, et de livrer vos conclusions
 vis à vis de la “maintenabilité” du logiciel étudié sous la forme d’un rapport
 de synthèse.
@@ -81,12 +81,12 @@ votre méthodologie.
 
   1. Quelles sont les méthodes de tests mise en place dans le projet ?
   2. Comment qualifiez vous la _qualité_ des tests mis en oeuvre ?
-  3. Dans quelle mesure les tests sont-ils reproductible ?
+  3. Dans quelle mesure les tests sont-ils reproductibles ?
 
 ### Dimension "Déploiement & Livraison"
 
   1. Quels outils d'intégration / déploiement continus sont mis en place ?
-  2. Comment sont gérées les dépendances logicielle dans le projet ?
+  2. Comment sont gérées les dépendances logicielles dans le projet ?
   3. Quelle méthodologie de publication (_releasing_) est mise en place ?
 
 ## Livrables
